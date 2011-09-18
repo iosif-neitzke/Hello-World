@@ -1,7 +1,7 @@
 #include <memory>
 #include <iostream>
 #include <cstdlib>
-// #include <array> -std=c++0x
+// #include <array> uses -std=c++0x compiler option
 
 struct Object {
   ~Object() {
